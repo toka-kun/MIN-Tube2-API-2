@@ -12,7 +12,7 @@
   },
   "description": "mino",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "repository": {
     "type": "git",
